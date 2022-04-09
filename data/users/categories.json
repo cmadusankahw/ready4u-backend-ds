@@ -1,0 +1,24 @@
+
+{ "id":"1",
+ "category":"Auto-mechanic",
+ "icon": "fas fa-car",
+ "tasks": [
+     {"id": "1", "task": "Car Repair"},
+     {"id": "2", "task": "Battery Repair"}
+]}
+
+{ "id":"2",
+    "category":"Electrician",
+    "icon": "fas fa-charging-station",
+    "tasks": [
+        {"id": "1", "task": "Kitchen Applience Repair"},
+        {"id": "2", "task": "Home Electricity Wiring"}
+]}
+
+{ "id":"3",
+    "category":"Labour",
+    "icon": "fas fa-home",
+    "tasks": [
+        {"id": "1", "task": "House cleaninig"},
+        {"id": "2", "task": "Garden Work"}
+]}

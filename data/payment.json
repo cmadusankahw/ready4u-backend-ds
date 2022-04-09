@@ -1,0 +1,13 @@
+{
+    "user_id": "U12",
+    "user_type": "serviceProvider",
+    "name": "Ernadi",
+    "email": "erandi@ready4u.com",
+    "payments": {
+        "month": 6,
+        "year": 2020,
+        "amount": 1400,
+        "due": 340,
+        "pay_date": "2020-05-28T12:34:56"
+    }
+}

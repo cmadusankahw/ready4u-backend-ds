@@ -1,0 +1,13 @@
+{
+    "user_id": "Admin1",
+    "user_type": "admin",
+    "first_name": "Binguni",
+    "last_name": "Edirisuriya",
+    "profile_pic": "./assets/images/noimg.png",
+    "email": "biguniemail@gmail.com",
+    "contact_no": "0719725662",
+    "address_line1": "Sooriya",
+    "address_line2": "Weligama, Matara",
+    "gender": "female",
+    "reg_date": "2020-06-18"
+  }
